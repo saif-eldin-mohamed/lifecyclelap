@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LifecycleLab" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0C0F30</item>
+    </style>
+</resources>
